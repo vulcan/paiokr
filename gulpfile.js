@@ -23,3 +23,4 @@ gulp.task('bower:download', ['clean:vendor'], function(){
 gulp.task('bower:install', ['bower:download'], function(){
 	gulp.src(mainBowerFiles(), {base: 'bower_components'}).pipe(gulp.dest('static/vendor/'))
 	});
+

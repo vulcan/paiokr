@@ -20,6 +20,17 @@
   "dependencies": {
     "backbone": "~1.2.1",
     "jquery": "~2.1.4",
-    "require": "*"
+    "require": "*",
+    "bootstrap": "~3.3.5"
+  },
+  "overrides": {
+	  "bootstrap":{
+		  "main": [
+		  "dist/css/bootstrap.css",
+		  "dist/css/bootstrap.css.map",
+		  "dist/js/bootstrap.js",
+		  "dist/fonts/*"
+		  ]
+	  }
   }
 }
