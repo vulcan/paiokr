@@ -1,0 +1,24 @@
+{
+  "name": "yonyouokr",
+  "version": "1.0.0",
+  "description": "yonyou okr collabaration system",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "del": "^1.2.0",
+    "fs": "0.0.2",
+    "fs-extra": "^0.22.1",
+    "gulp": "^3.9.0",
+    "gulp-bower": "0.0.10",
+    "gulp-rename": "^1.2.2",
+    "main-bower-files": "^2.9.0",
+    "q": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

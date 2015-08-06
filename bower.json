@@ -1,0 +1,25 @@
+{
+  "name": "yonyouokr",
+  "version": "0.0.1",
+  "description": "okr collabration system for yonyou innovation center",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "alva.yi@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "jquery": "~2.1.4",
+    "require": "*"
+  }
+}
